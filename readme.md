@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou [Seu Nome]
+# 👋 Olá! Eu sou Diego Medeiros
 
 [![Linkedin Badge](https://img.shields.io/badge/-Dhyego--Sousa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhyego-sousa/)](https://www.linkedin.com/in/dhyego-sousa/)
 [![Gmail Badge](https://img.shields.io/badge/-contatodhyego@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contatodhyego@gmail.com)](mailto:contatodhyego@gmail.com)
