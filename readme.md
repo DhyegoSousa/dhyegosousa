@@ -42,8 +42,6 @@ A API RESTful de Gerenciamento de Bibliotecas foi desenvolvida utilizando o fram
 
 ## 🤝 Vamos nos conectar!
 
-## 🤝 Vamos nos conectar!
-
 Sinta-se à vontade para me enviar uma mensagem ou se conectar comigo nas redes sociais!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Dhyego--Sousa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhyego-sousa/)](https://www.linkedin.com/in/dhyego-sousa/)
