@@ -3,7 +3,7 @@
 ##  🤝 Conecte-se comigo!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhyego-sousa/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:contatodhyego@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DhyegoMedeiros/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhyegosousa/)
 
 ## Sobre mim
 
@@ -44,12 +44,12 @@ Sou um desenvolvedor iniciante em programação, apaixonado por tecnologia e ino
 
 ## 🚀 Projetos
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DhyegoMedeiros&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/DhyegoMedeiros/dio-lab-open-source)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DhyegoMedeiros&repo=syslibrary&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/DhyegoMedeiros/syslibrary)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dhyegosousa&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/DhyegoMedeiros/dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dhyegosousa&repo=syslibrary&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/DhyegoMedeiros/syslibrary)
 
 ## 📈 Estatísticas do GitHub
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DhyegoMedeiros&layout=compact&theme=radical)![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DhyegoMedeiros&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=dhyegosousa&layout=compact&theme=radical)![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=dhyegosousa&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=radical)
 
 ## 🎯 Objetivos para 2024
 
@@ -63,4 +63,4 @@ Sinta-se à vontade para me enviar uma mensagem ou se conectar comigo nas redes 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhyego-sousa/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:contatodhyego@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DhyegoMedeiros/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhyegosousa/)
